@@ -1,0 +1,26 @@
+{
+  "name": "agentpay-agent-memory-mcp",
+  "version": "1.0.0",
+  "description": "MCP server: Persistent key-value memory for AI agents \u2014 npm wrapper",
+  "main": "index.js",
+  "bin": {
+    "agent-memory-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-agent",
+    "agentpay",
+    "agent",
+    "memory",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumblingb/agent-memory-mcp.git"
+  },
+  "homepage": "https://rumblingb.github.io/agent-memory-mcp/",
+  "author": "AgentPay Labs",
+  "license": "MIT",
+  "dependencies": {}
+}
