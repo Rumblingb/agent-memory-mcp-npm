@@ -21,7 +21,7 @@ from contextlib import contextmanager
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from mcp.server import Server
+from mcp.server.lowlevel import Server
 from mcp.server.stdio import stdio_server
 from mcp.types import (
     CallToolResult,
